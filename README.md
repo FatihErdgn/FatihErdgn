@@ -29,6 +29,9 @@ Hello, I'm **Fatih Erdogan**, a developer focused on building efficient, scalabl
 - **Node.js**
 - **Express.js**
 - **RESTful APIs**
+- **Redis**
+- **MQTT Broker (Eclipse Mosquitto)**
+- Socket.io
 
 ### Machine Learning & AI
 - **Python**
