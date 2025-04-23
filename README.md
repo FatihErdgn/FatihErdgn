@@ -59,7 +59,7 @@ Hello, I'm **Fatih Erdogan**, a developer focused on building efficient, scalabl
 The frontend of a appointment management system. Built with React.js and Tailwind CSS to provide a seamless user experience.
 
 ### [Plenvo Backend](https://github.com/FatihErdgn/plenvo-backend)
-The backend API for Plenvo, developed using Node.js and Express.js. Features appointment management, custom expense management, role-based access, and SMS notifications.
+The backend API for Plenvo, developed using Node.js and Express.js. Features appointment management, custom expense management, financial dashboard features, role-based access, and SMS notifications.
 
 ### Machine Learning Projects
 - **[LLM Exploration](https://github.com/FatihErdgn/llm-exploration)**: Python-based project experimenting with large language models.
