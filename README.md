@@ -44,6 +44,7 @@ Hello, I'm **Fatih Erdogan**, a developer focused on building efficient, scalabl
 ### Database
 - **MongoDB**
 - **SQL (MySQL, PostgreSQL, MSSQL)**
+- **Neo4j Graph DB**
 
 ### Tools & Platforms
 - **Git & GitHub**
