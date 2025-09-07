@@ -18,6 +18,7 @@ Hello, I'm **Fatih Erdogan**, a developer focused on building efficient, scalabl
 - **JavaScript (ES6+)**
 - **TypeScript**
 - **Python**
+- **C#**
 
 ### Frontend Development
 - **React.js**
@@ -29,6 +30,7 @@ Hello, I'm **Fatih Erdogan**, a developer focused on building efficient, scalabl
 - **Node.js**
 - **Express.js**
 - **Nest.js**
+- **.NET**
 - **RESTful APIs**
 - **Redis**
 - **MQTT Broker (Eclipse Mosquitto)**
