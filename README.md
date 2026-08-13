@@ -2,6 +2,8 @@
 
 Hello, I'm **Fatih Erdogan**, a developer focused on building efficient, scalable, and user-friendly software solutions. My work spans across multiple domains, including backend development, frontend design, and machine learning projects.
 
+[My Portfolio](https://fatiherdogan.dev)
+
 ---
 
 ## About Me
